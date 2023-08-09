@@ -1,0 +1,10 @@
+{
+    "name": "get-tsconfig-repro",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "get-tsconfig": "~4.6.2",
+        "@servicetitan/startup": "~22.8.2"
+    }
+}
